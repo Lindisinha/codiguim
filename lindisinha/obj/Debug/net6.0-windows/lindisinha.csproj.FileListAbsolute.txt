@@ -1,0 +1,17 @@
+C:\Users\rafag\source\repos\lindisinha\bin\Debug\net6.0-windows\lindisinha.exe
+C:\Users\rafag\source\repos\lindisinha\bin\Debug\net6.0-windows\lindisinha.deps.json
+C:\Users\rafag\source\repos\lindisinha\bin\Debug\net6.0-windows\lindisinha.runtimeconfig.json
+C:\Users\rafag\source\repos\lindisinha\bin\Debug\net6.0-windows\lindisinha.dll
+C:\Users\rafag\source\repos\lindisinha\bin\Debug\net6.0-windows\lindisinha.pdb
+C:\Users\rafag\source\repos\lindisinha\obj\Debug\net6.0-windows\lindisinha.csproj.AssemblyReference.cache
+C:\Users\rafag\source\repos\lindisinha\obj\Debug\net6.0-windows\lindisinha.Form1.resources
+C:\Users\rafag\source\repos\lindisinha\obj\Debug\net6.0-windows\lindisinha.csproj.GenerateResource.cache
+C:\Users\rafag\source\repos\lindisinha\obj\Debug\net6.0-windows\lindisinha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafag\source\repos\lindisinha\obj\Debug\net6.0-windows\lindisinha.AssemblyInfoInputs.cache
+C:\Users\rafag\source\repos\lindisinha\obj\Debug\net6.0-windows\lindisinha.AssemblyInfo.cs
+C:\Users\rafag\source\repos\lindisinha\obj\Debug\net6.0-windows\lindisinha.csproj.CoreCompileInputs.cache
+C:\Users\rafag\source\repos\lindisinha\obj\Debug\net6.0-windows\lindisinha.dll
+C:\Users\rafag\source\repos\lindisinha\obj\Debug\net6.0-windows\refint\lindisinha.dll
+C:\Users\rafag\source\repos\lindisinha\obj\Debug\net6.0-windows\lindisinha.pdb
+C:\Users\rafag\source\repos\lindisinha\obj\Debug\net6.0-windows\lindisinha.genruntimeconfig.cache
+C:\Users\rafag\source\repos\lindisinha\obj\Debug\net6.0-windows\ref\lindisinha.dll
